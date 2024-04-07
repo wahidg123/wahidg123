@@ -1,36 +1,36 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/banner.png" alt="My banner">
+  <a href="https://www.linkedin.com/in/wahid-mohammad-sdet/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/wahid-mohammad-sdet/" target="_blank" rel="noreferrer">Wahid</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and badminton player 🏸</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/wahid-mohammad-sdet//">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/linkedin.svg" alt="Wahid Mohammad | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://instagram.com/waheed0777">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/instagram.svg" alt="Wahid | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://api.whatsapp.com/send?phone=7019347012&text=Hello">
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/whatsapp.png" alt="Wahid | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -41,7 +41,7 @@
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
 <p align="center">    
-<img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
@@ -64,17 +64,17 @@ in test coverage</b>
 
 
 ## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+[![Test Automation Framework Video](https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=Linux-Zero-to-Hero)](https://github.com/jatin99/Linux-Zero-to-Hero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=Linux-Zero-to-Hero)](https://github.com/wahidg123/Linux-Zero-to-Hero)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahidg123&repo=AutomationFramework)](https://github.com/wahidg123/AutomationFramework)
 
-[Automated Regression Testing Framework Java](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
+[Automated Regression Testing Framework Java](https://github.com/wahidg123/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
-[Automated Regression Testing Framework Python](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+[Automated Regression Testing Framework Python](https://github.com/wahidg123/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 
 ## 💼 Technical Skills
@@ -96,7 +96,7 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
+[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=wahidg123)](https://github.com/wahidg123)
 
 
 ## Contact
@@ -105,13 +105,13 @@ in test coverage</b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/wahidg123/wahidg123.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
   </a>
 </p>
   
